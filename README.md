@@ -4,9 +4,6 @@
 React JS, JS, Typescript
 
 
-
-
-
 <div align="center">
   <a href="https://github.com/brenolobianco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenolobianco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,8 +24,7 @@ React JS, JS, Typescript
  
 </div>
 
-    <div>
-      <h2>
+    
        
       
       
