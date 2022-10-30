@@ -1,5 +1,10 @@
 ### Olá, eu sou o Breno Lobianco👋
-- Hoje trabalho com Front-end
+- Desenvolvedor Web Front-end
+
+React JS, JS, Typescript
+
+
+
 
 
 <div align="center">
@@ -21,3 +26,9 @@
 
  
 </div>
+
+    <div>
+      <h2>
+       
+      
+      
