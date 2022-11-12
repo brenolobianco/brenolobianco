@@ -1,6 +1,6 @@
 ### Olá, eu sou o Breno Lobianco👋
 - Desenvolvedor Web Front-end
-
+- Staks: React JS, Javascript,HTML,CSS,API
 
 
 
