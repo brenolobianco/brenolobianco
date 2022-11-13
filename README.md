@@ -5,7 +5,7 @@
 - Estudando de análise e desenvolvimento de sistemas
 </div>
 
- # Skills
+ ## Skills
  
 <div align="center">
 
