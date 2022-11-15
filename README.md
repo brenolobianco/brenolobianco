@@ -2,7 +2,7 @@
 
 - Desenvolvedor  Front-end
 - Estudante Full-Stack Kenzie Academy(atualmente estudando Back-end)
-- Estudando de análise e desenvolvimento de sistemas
+- Estudando análise e desenvolvimento de sistemas
 </div>
 
  ## Skills
