@@ -1,7 +1,7 @@
-## Olá, Meu nome é Breno Lobianco, e sou Programador de Software!👋
+## Olá, Meu nome é Breno Lobianco, e sou Desenvolvedor Web!👋
 
-- Desenvolvedor  Front-end
-- Estudante Full-Stack Kenzie Academy(atualmente estudando Back-end)
+- Desenvolvedor Full-stack
+- Estudante Full-Stack Kenzie Academy
 - Estudando análise e desenvolvimento de sistemas
 </div>
 
