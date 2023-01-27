@@ -1,7 +1,6 @@
 ## Olá, Meu nome é Breno Lobianco, e sou Desenvolvedor Web!👋
 
 - Desenvolvedor Full-stack
-- Estudante Full-Stack Kenzie Academy
 - Estudando análise e desenvolvimento de sistemas
 </div>
 
