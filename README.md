@@ -30,8 +30,8 @@
 
 <div margin-top="100px">
 
-  <a href = "https://api.whatsapp.com/send/?phone=5516996225832&text&type=phone_number&app_absent=0"><img src="https://img.freepik.com/vetores-premium/conceito-de-icone-do-whatsapp_23-2147897840.jpg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-lobianco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://api.whatsapp.com/send/?phone=5516996225832&text&type=phone_number&app_absent=0"><img src="https://t.ctcdn.com.br/63V25kDFoZnMMF2WjQavNUcoawY=/400x400/smart/filters:format(webp)/i618809.png" height="50em" ></a>
+  <a href="https://www.linkedin.com/in/breno-lobianco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50em"  target="_blank"></a> 
 </div>
 
 <div align="center">
