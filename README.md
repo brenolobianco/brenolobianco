@@ -2,6 +2,8 @@
 
 - Desenvolvedor Full-stack
 - Estudando análise e desenvolvimento de sistemas
+- Atualmente estou trabalhando como Programador Full Stack na Flouent
+
 </div>
 
  ## Skills
