@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Breno Lobianco, e sou Desenvolvedor Web!👋
 
 - Desenvolvedor Full-Stack
-- Atualmente estou trabalhando como Programador Full Stack na Flouent
+- Atualmente estou trabalhando como Programador Full Stack
 
 </div>
 
